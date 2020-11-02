@@ -1,4 +1,5 @@
 ### 개발 잘하고 싶은 개린이입니다 🌱
+![PilYeooong's github stats](https://github-readme-stats.vercel.app/api?username=PilYeooong&show_icons=true&theme=radical)
 
 <!--
 **PilYeooong/PilYeooong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
